@@ -1,4 +1,4 @@
-# Brugada Syndrome Detection Using Support Vector Machines (SVM)
+# Machine Learning–Based Classification of Brugada Syndrome from ECG Data Using SVM
 
 In this project, I developed a Support Vector Machines (SVM) classifier to detect **Brugada Syndrome** using ECG signals. The main objective of this project is to investigate how machine learning can support early detection of Brugada Syndrome, contributing to improved clinical decision-making and prevention of sudden cardiac death.
 
